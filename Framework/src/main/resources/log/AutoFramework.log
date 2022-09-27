@@ -1,0 +1,5 @@
+2022-09-27 11:12:07,209 - TestCase1 -INFO - initialization of the properties file is done
+2022-09-27 11:12:07,574 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-27 11:12:07,598 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rprajapati\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-27 11:12:08,858 - TestCase1 -INFO - This is test1
+2022-09-27 11:12:09,288 - TestCase1 -INFO - ====Sending Email=====
